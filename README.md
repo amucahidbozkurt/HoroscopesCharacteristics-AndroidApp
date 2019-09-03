@@ -1,0 +1,1 @@
+# HoroscopesCharacteristics-AndroidApp

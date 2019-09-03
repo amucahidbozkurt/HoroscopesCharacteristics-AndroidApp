@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="bubble">
+        <item>#41ffffff</item>
+        <item>#18ffffff</item>
+        <item>#1fffffff</item>
+        <item>#25ffffff</item>
+    </string-array>
+
+    <string-array name="BubbleAnimations">
+        <item>com.github.glomadrian.grav.generator.animation.SideToSideAnimator</item>
+        <item>com.github.glomadrian.grav.generator.animation.ShakeAnimator</item>
+    </string-array>
+    
+    <string-array name="horoscopes">
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+    </string-array>
+
+    <string-array name="horoscopesDate">
+        <item>Mar 21 - Apr 20</item>
+        <item>Apr 21 – May 21</item>
+        <item>May 22 – June 21</item>
+        <item>June 22 – July 22</item>
+        <item>July 23 – Aug 23</item>
+        <item>Aug 24 – Sept 22</item>
+        <item>Sept 23 – Oct 23</item>
+        <item>Oct 24 – Nov 22</item>
+        <item>Nov 23 – Dec 21</item>
+        <item>Dec 22 – Jan 20</item>
+        <item>Jan 21 – Feb 18</item>
+        <item>Feb 19 - Mar 20</item>
+    </string-array>
+
+    <string-array name="horoscopesInformation">
+        <item>
+            \n\tElement: Fire\n\n
+            \tQuality: Cardinal\n\n
+            \tColor: Red\n\n
+            \tDay: Tuesday\n\n
+            \tRuler: Mars\n\n
+            \tGreatest Overall Compatibility: Libra, Leo\n\n
+            \tLucky Numbers: 1, 8, 17\n\n
+            \tDate Range: Mar 21 - Apr 20\n\n
+
+        </item>
+        <item>
+            \n\tElement: Earth\n\n
+            \tQuality: Fixed\n\n
+            \tColor: Green, Pink\n\n
+            \tDay: Friday, Monday\n\n
+            \tRuler: Venus\n\n
+            \tGreatest Overall Compatibility: Scorpio, Cancer\n\n
+            \tLucky Numbers: 2, 6, 9, 12, 24\n\n
+            \tDate range: Apr 21 – May 21\n\n
+        </item>
+        <item>
+            \n\tElement: Air\n\n
+            \tQuality: Mutable\n\n
+            \tColor: Light-Green, Yellow\n\n
+            \tDay: Wednesday\n\n
+            \tRuler: Mercury\n\n
+            \tGreatest Overall Compatibility: Sagittarius, Aquarius\n\n
+            \tLucky Numbers: 5, 7, 14, 23\n\n
+            \tDate range: May 22 – June 21\n\n
+        </item>
+        <item>
+            \n\tElement: Water\n\n
+            \tQuality: Cardinal\n\n
+            \tColor: White\n\n
+            \tDay: Monday, Thursday\n\n
+            \tRuler: Moon\n\n
+            \tGreatest Overall Compatibility: Capricorn, Taurus\n\n
+            \tLucky Numbers: 2, 3, 15, 20\n\n
+            \tDate range: June 22 – July 22\n\n
+        </item>
+        <item>
+            \nElement: Fire\n\n
+            Quality: Fixed\n\n
+            Color: Gold, Yellow, Orange\n\n
+            Day: Sunday\n\n
+            Ruler: Sun\n\n
+            Greatest Overall Compatibility: Aquarius, Gemini\n\n
+            Lucky Numbers: 1, 3, 10, 19\n\n
+            Date range: July 23 – Aug 23\n\n
+        </item>
+        <item>
+            \nElement: Earth\n\n
+            Quality: Mutable\n\n
+            Color: Grey, Beige, Pale-Yellow\n\n
+            Day: Wednesday\n\n
+            Ruler: Mercury\n\n
+            Greatest Overall Compatibility: Pisces, Cancer\n\n
+            Lucky Numbers: 5, 14, 15, 23, 32\n\n
+            Date range: Aug 24 – Sept 22\n\n
+        </item>
+        <item>
+            \nElement: Air\n\n
+            Quality: Cardinal\n\n
+            Color: Pink, Green\n\n
+            Day: Friday\n\n
+            Ruler: Venus\n\n
+            Greatest Overall Compatibility: Aries, Sagittarius\n\n
+            Lucky Numbers: 4, 6, 13, 15, 24\n\n
+            Date range: Sept 23 – Oct 23\n\n
+        </item>
+        <item>
+            \nElement: Water\n\n
+            Quality: Fixed\n\n
+            Color: Scarlet, Red, Rust\n\n
+            Day: Tuesday\n\n
+            Ruler: Pluto, Mars\n\n
+            Greatest Overall Compatibility: Taurus, Cancer\n\n
+            Lucky Numbers: 8, 11, 18, 22\n\n
+            Date range: Oct 24 – Nov 22\n\n
+        </item>
+        <item>
+            \nElement: Fire\n\n
+            Quality: Mutable\n\n
+            Color: Blue\n\n
+            Day: Thursday\n\n
+            Ruler: Jupiter\n\n
+            Greatest Overall Compatibility: Gemini, Aries\n\n
+            Lucky Numbers: 3, 7, 9, 12, 21\n\n
+            Date range: Nov 23 – Dec 21\n\n
+        </item>
+        <item>
+            \nElement: Earth\n\n
+            Quality: Cardinal\n\n
+            Color: Brown, Black\n\n
+            Day: Saturday\n\n
+            Ruler: Saturn\n\n
+            Greatest Overall Compatibility: Taurus, Cancer\n\n
+            Lucky Numbers: 4, 8, 13, 22\n\n
+            Date range: Dec 22 – Jan 20\n\n
+        </item>
+        <item>
+            \nElement: Air\n\n
+            Quality: Fixed\n\n
+            Color: Light-Blue, Silver\n\n
+            Day: Saturday\n\n
+            Ruler: Uranus, Saturn\n\n
+            Greatest Overall Compatibility: Leo, Sagittarius\n\n
+            Lucky Numbers: 4, 7, 11, 22, 29\n\n
+            Date range: Jan 21 – Feb 18\n\n
+        </item>
+        <item>
+            \nElement: Water\n\n
+            Quality: Mutable\n\n
+            Color: Mauve, Lilac, Purple, Violet, Sea green\n\n
+            Day: Thursday\n\n
+            Ruler: Neptune, Jupiter\n\n
+            Greatest Overall Compatibility: Virgo, Taurus\n\n
+            Lucky Numbers: 3, 9, 12, 15, 18, 24\n\n
+            Date range: Feb 19 - Mar 20\n\n
+        </item>
+    </string-array>
+    
+</resources>
