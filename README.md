@@ -9,3 +9,4 @@
 - https://www.horoscope.com <br>
 - https://www.astrology-zodiac-signs.com/ <br>
 - http://dailyvibes.co <br>
+- https://www.freepik.com/free-vector/zodiac-wheel-space-background_4905014.htm
